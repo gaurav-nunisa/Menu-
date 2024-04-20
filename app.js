@@ -85,7 +85,7 @@ const menu = [
     category: "athy's choice",
     price: 9.99,
     img: "./images/item-11.jpeg",
-    desc: " KC ka chicken legs",
+    desc: ` ------------------KC ka chicken Legs-----------------`,
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ const menu = [
     category: "athy's choice",
     price: 3.99,
     img: "./images/item-12.jpg",
-    desc: `Aam ka juice`,
+    desc: `-----------------------Aam ka juice---------------------`,
   },
   // {
   //   id: 13,
@@ -109,7 +109,7 @@ const menu = [
     category: "athy's choice",
     price: 2.99,
     img: "./images/item-14.jpg",
-    desc: `chai chai lelooooooooo`,
+    desc: `-----------------------Chai lelooooo---------------------`,
   },
 ];
 
