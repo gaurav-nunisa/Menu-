@@ -85,7 +85,7 @@ const menu = [
     category: "athy's choice",
     price: 9.99,
     img: "./images/item-11.jpeg",
-    desc: ` ------------------KC ka chicken Legs-----------------`,
+    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ const menu = [
     category: "athy's choice",
     price: 3.99,
     img: "./images/item-12.jpg",
-    desc: `-----------------------Aam ka juice---------------------`,
+    desc:`skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   // {
   //   id: 13,
@@ -109,7 +109,7 @@ const menu = [
     category: "athy's choice",
     price: 2.99,
     img: "./images/item-14.jpg",
-    desc: `-----------------------Chai lelooooo---------------------`,
+    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
 ];
 
